@@ -1,0 +1,8 @@
+{
+  "name": "newrelic_plugins",
+  "version": "0.0.1",
+  "description": "Installs NewRelic Server(newrelic-sysmond)",
+  "recipes": {
+    "newrelic_server": "Set up newrelic_sysmond and start service"
+  }
+}
